@@ -6,6 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
 public class PosterManagerTest {
 
+
     @Test
     void shouldTestAdd() {
         Film first = new Film(1, 1, "Bloodshot", "love story");
