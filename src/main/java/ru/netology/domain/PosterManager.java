@@ -10,7 +10,7 @@ public class PosterManager {
 
     public PosterManager(int lastIndex) {// конструктор с 1 параметром
         this.lastIndex = lastIndex;
-    }
+    }//Недефолтный конструктор
 
 
     public void add(Film movie) {// Добавление нового фильма.
